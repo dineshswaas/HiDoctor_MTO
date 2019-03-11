@@ -1,0 +1,75 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="padding_ten">10dp</dimen>
+
+    <dimen name="margin_standard">24dp</dimen>
+    <dimen name="margin_short">8dp</dimen>
+
+    <dimen name="activity_margin_left">0dp</dimen>
+    <dimen name="activity_margin_right">0dp</dimen>
+
+    <dimen name="activity_margin_top">10dp</dimen>
+    <dimen name="detail_backdrop_height">250dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fab_report_margin">18dp</dimen>
+    <dimen name="card_margin">16dp</dimen>
+
+    <dimen name="status">10dp</dimen>
+    <dimen name="margin_extra_short">4dp</dimen>
+    <dimen name="margin_medium">32dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="list_item__contact_imageview_size">48dp</dimen>
+    <dimen name="list_item_imageview_size_normal">48dp</dimen>
+    <dimen name="text_size_caption_material">16dp</dimen>
+    <dimen name="margin_2">2dp</dimen>
+    <dimen name="margin_4">4dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+
+    <dimen name="padding_list_row">16dp</dimen>
+    <dimen name="messages_padding_left">72dp</dimen>
+    <dimen name="timestamp">12dp</dimen>
+    <dimen name="dimen_40">40dp</dimen>
+    <dimen name="dimen_sp_14">14sp</dimen>
+    <dimen name="dimen_25">25dp</dimen>
+    <dimen name="dimen_22">22dp</dimen>
+    <dimen name="dimen_12">12dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_80">80dp</dimen>
+    <dimen name="margin_60">60dp</dimen>
+    <dimen name="margin_24">24dp</dimen>
+    <dimen name="dimen_sp_12">12sp</dimen>
+    <dimen name="dimen_sp_13">13sp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="dimen_sp_16">16sp</dimen>
+    <dimen name="margin_120">120dp</dimen>
+    <dimen name="margin_100">100dp</dimen>
+    <dimen name="padding_five">5dp</dimen>
+    <dimen name="dimen_50">50dp</dimen>
+    <dimen name="dimen_70">70dp</dimen>
+    <dimen name="padding_twenty">20dp</dimen>
+    <dimen name="dimen_sp_20">20sp</dimen>
+    <dimen name="dimen_sp_30">30sp</dimen>
+    <dimen name="margin_48">48dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
+    <dimen name="touch_default">45dp</dimen>
+    <dimen name="player_height">120dp</dimen>
+    <dimen name="icon_with">65dp</dimen>
+    <dimen name="icon_height">80dp</dimen>
+    <dimen name="default_stack_spacing">7dp</dimen>
+    <dimen name="dimen_sp_18">18sp</dimen>
+    
+    <dimen name="dimen_mc_product_name">16sp</dimen>
+
+
+    <!--Navigation Drawer-->
+    <dimen name="nav_header_vertical_spacing">10dp</dimen>
+    <dimen name="profile_width">80dp</dimen>
+    <dimen name="profile_height">80dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+
+
+</resources>

@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">MTO</string>
+    <string name="version">v1.0(1)</string>
+    <string name="versionCode">1</string>
+    <string name="versionName">1.0</string>
+
+
+    <!--Company Screen-->
+    <string name="next">next</string>
+    <string name="company_url">If you are not sure about your company URL,</string>
+    <string name="companyURL">Please contact your Sales Admin</string>
+    <string name="enter_your_company_details">Enter your company URL to access HiDoctor</string>
+    <string name="url_extentions">.hidoctor.me</string>
+    <string name="need_help">Need Help?</string>
+    <string name="please_enter_company_name">Please Enter Valid Company URL.</string>
+    <string name="upload_later">Later</string>
+    <string name="loading">Loading... </string>
+    <string name="app_exit_alert">Press the back button once again to close the application.</string>
+
+    <!--Login Screen-->
+    <string name="login_btn">Login</string>
+    <string name="pharma_welcome_you">HiDoctor welcomes you</string>
+    <string name="sample_url_text">Pharma.hidoctor.me</string>
+    <string name="Change">Change</string>
+    <string name="user_id">User ID</string>
+    <string name="Password">Password</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="enter_user_name">Please enter the User Name.</string>
+    <string name="enter_valid_user_name">Please Enter Valid User Name.</string>
+    <string name="enter_password">Please Enter Password.</string>
+
+
+    <!--ForgotPassword Screen-->
+    <string name="forgot_password_title">Forgot Password</string>
+    <string name="txtForgotPassword">To receive your password by email, please enter your UserID below.</string>
+    <string name="forgotPassword_btn">REQUEST PASSWORD</string>
+    <string name="enter_user_Id">Please enter User ID.</string>
+    <string name="enter_valid_user_Id">Please enter valid User ID.</string>
+    <string name="alert_text">Alert</string>
+    <string name="forgot_password_sent_message">The access credentials has been sent to the mail associated with your account.Please Check your mail.</string>
+    <string name="ok_string">OK</string>
+
+    <!--LogOut Screen-->
+    <string name="logout_title">LogOut </string>
+    <string name="logout">Logout</string>
+    <string name="dialog_cancel">Cancel</string>
+
+
+    <!--WEBView Screen-->
+
+    <string name="web_view_title">WebView</string>
+
+
+    <!--Home Screen-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+
+    <!-- Navigation Drawer menu labels -->
+
+    <string name="scheme_creation">Scheme Creation</string>
+    <string name="doctor_tagging">Scheme – Doctor Tagging</string>
+    <string name="order_creation">Order Creation</string>
+    <string name="order_processing">Order Processing</string>
+    <string name="order_maintenance">Order Maintenance</string>
+    <string name="report_master">Reports/Masters</string>
+    <string name="log_out">Log Out</string>
+
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Scheme Creation</item>
+        <item>Scheme – Doctor Tagging</item>
+        <item>Order Creation</item>
+        <item>Order Processing</item>
+        <item>Order Maintenance</item>
+        <item>Reports/Masters </item>
+        <item>Log Out</item>
+
+    </string-array>
+
+
+    <string-array name="scheme_creation">
+
+        <item>Scheme Creation</item>
+        <item>Approval</item>
+        <item>UnApproved Scheme</item>
+        <item>Maintenance</item>
+    </string-array>
+
+    <string-array name="doctor_tagging">
+        <item>Doctor Scheme Mapping</item>
+        <item>Scheme Mapping Approval</item>
+    </string-array>
+
+    <string-array name="order_creation">
+        <item>Create Order</item>
+    </string-array>
+
+    <string-array name="order_processing">
+        <item>Table Tennis</item>
+        <item>Badminton</item>
+        <item>VolleyBall</item>
+        <item>Boxing</item>
+        <item>Swimming</item>
+    </string-array>
+
+
+    <string name="something_went_wrong">Something went wrong. Please try again later.</string>
+    <string name="refresh">Refresh</string>
+    <string name="action_settings">Settings</string>
+</resources>
