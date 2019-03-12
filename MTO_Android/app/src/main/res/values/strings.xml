@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">MTO</string>
-    <string name="version">v1.0(1)</string>
-    <string name="versionCode">1</string>
-    <string name="versionName">1.0</string>
+    <string name="version">v1.0(3)</string>
+    <string name="versionCode">3</string>
+    <string name="versionName">3.0</string>
 
 
     <!--Company Screen-->
